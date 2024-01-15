@@ -17,7 +17,7 @@
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Reda Meziane - reda.meziane99@gmail.com
 
