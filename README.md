@@ -1,6 +1,6 @@
-![/res/github-banner.jpg](./res/github-banner.jpg)
-
 <h1 align="center">Hello! 👋 I'm Reda</h1>
+
+![/res/github-banner.jpg](./res/github-banner.jpg)
 
 ## Languages and Frameworks 💻
 
