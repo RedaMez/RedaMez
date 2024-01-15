@@ -1,8 +1,8 @@
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![/res/github-banner.jpg](./res/github-banner.jpg)
 
 <h1 align="center">Hello! 👋 I'm Reda</h1>
 
-## Languages and Frameworks
+## Languages and Frameworks 💻
 
 * [![Spring][Spring.io]][Spring-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -11,7 +11,17 @@
 * [![C++][C++.com]][C++-url]
 * [![Kotlin][Kotlin.com]][Kotlin-url]
 
+## Languages stats 👨🏻‍💻
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redamez&layout=compact&theme=tokyonight)
+
+
+<!-- CONTACT -->
+## Contact
+
+Reda Meziane - reda.meziane99@gmail.com
+
+Profile Link: [https://github.com/RedaMez](https://github.com/RedaMez)
 
 <!--
 **RedaMez/RedaMez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
