@@ -11,8 +11,7 @@
 * [![C++][C++.com]][C++-url]
 * [![Kotlin][Kotlin.com]][Kotlin-url]
 
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redamez&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redamez&layout=compact&theme=tokyonight)
 
 <!--
 **RedaMez/RedaMez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
