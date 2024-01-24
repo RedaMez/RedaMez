@@ -2,6 +2,8 @@
 
 ![/res/github-banner.jpg](./res/github-banner.jpg)
 
+I'm a Computer Science student at Université Paris Cité, currently looking for an internship in software development.
+
 ## Languages and Frameworks 💻
 
 * [![Spring][Spring.io]][Spring-url]
