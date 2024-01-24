@@ -12,6 +12,7 @@ I'm a Computer Science student at Université Paris Cité, currently looking for
 * [![Python][Python.org]][Python-url]
 * [![C++][C++.com]][C++-url]
 * [![Kotlin][Kotlin.com]][Kotlin-url]
+* [![Swift][Swift.org]][Swift-url]
 
 ## Languages stats 👨🏻‍💻
 
@@ -54,3 +55,5 @@ Here are some ideas to get you started:
 [C++-url]: https://python.org
 [Kotlin.com]: https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white
 [Kotlin-url]: https://kotlinlang.org
+[Swift.org]: https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white
+[Swift-url]: https://swift.org
