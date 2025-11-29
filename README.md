@@ -14,11 +14,6 @@ I'm a Fullstack Java/React Developer.
 * [![Kotlin][Kotlin.com]][Kotlin-url]
 * [![Swift][Swift.org]][Swift-url]
 
-## Languages stats 👨🏻‍💻
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redamez&layout=compact&theme=tokyonight)
-
-
 <!-- CONTACT -->
 ## Contact 📧
 
